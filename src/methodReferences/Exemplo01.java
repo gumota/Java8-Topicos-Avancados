@@ -14,8 +14,6 @@ public class Exemplo01 {
 		// Method reference - a um metodo de instancia de um objeto particular;
 		Figura2D fig2 = ret::desenhaRetangulo;
 		fig2.desenha(10.5, 7.0);
-		
-		
 
 	}
 

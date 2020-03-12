@@ -12,3 +12,8 @@ Method References (Referências a método)
   - a um método de instancia de um objeto arbitrario a partir de um tipo especifico (uma classe especifica);
   - a um construtor;
   
+
+  Utilizamos method references ao invés de utilizar classe anonima, utilize LAMBDA EXPRESSION e se isto chamar apenas um método,
+  então utilize method reference
+  
+  Imagem na video aula que mostra onde podemos substituir lambda por method reference
