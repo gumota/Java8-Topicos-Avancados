@@ -1,0 +1,14 @@
+Method References (Referências a método) 
+
+- Pode ser utilizado em muitos casos como um bom substituto do lambda expression;
+	Trata-se de uma forma abreviada para uma expressão lambda que executa apenas um método
+	
+- Operador method references     ::    . classe/Objeto :: metodo referenciado
+
+- Como o proprio nome diz, ele pode ser usado para fazer referência:
+
+  - a um método de instancia de um objeto particular;
+  - a um método estático;
+  - a um método de instancia de um objeto arbitrario a partir de um tipo especifico (uma classe especifica);
+  - a um construtor;
+  
