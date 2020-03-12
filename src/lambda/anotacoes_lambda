@@ -1,0 +1,37 @@
+Aula 1
+Novas Caracteristicas e Beneficios do Java 8
+
+- Linguagem - mudanças da maneira como os programadores codificam seus códigos 
+- Compilador - atender ás novas estruturas semânticas 
+- Bibliotecas novas
+- Ferramentas 
+- JVM (runtime)
+
+Aula 2 
+
+Lambda expressions 
+
+- Funções anominas - não tem nome e não pertence a nenhuma classe 
+- Escrever códigos mais funcionais e otimizados;
+- Maneira mais simples de implementar interfaces que possui somente um método abstrato (Funcional Interfaces ou SAM - Single 
+Abstract Interface a partir do Java 8);
+- Percorrer, filtrar e extrair dados de coleções de uma maneira mais simples e direta.
+- Operador lambda -> (Arrow/seta)   (parâmetros de entrada -> ação)
+
+- Interfaces 
+	Possui um único método abstrato e o programador deve implementar oq a função deve fazer
+	
+- Lambda expressions - sintaxe básica 
+
+	- Sem argumentos: () -> System.out.println("Hello World")
+	- Um argumento: s -> System.out.println(s)
+	- Dois argumentos: (x , y) -> x + y
+	- Dois argumentos de tipos explícitos: (Integer x, Integer y) -> x + y
+	- Multiplos métodos: (x,y) -> {  System.out.println(x);
+									 System.out.println(y);
+								}
+	
+	
+	
+	
+	
