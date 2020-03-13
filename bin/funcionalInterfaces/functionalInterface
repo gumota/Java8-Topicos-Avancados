@@ -1,0 +1,9 @@
+Funcional Interfaces
+
+- Uma interface funcional contém exatamente um único método abtstrato;
+- Permite sua implementação através de lambda expressions ou method references:
+- Single Abstract Method Interfaces or SAM Interfaces;
+- Runnable, Callable, Comparable, entre outras pré-Java8; - Legacy functional interfaces
+  run();      call();   campareTo();
+  
+ - Function, Supplier, Consumer, Predicate, entre outras. Interfaces novas do Java 8.

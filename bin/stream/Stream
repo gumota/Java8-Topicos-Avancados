@@ -1,0 +1,8 @@
+Stream 
+
+- java.util.stream - contém classes, interfaces eenum;
+- NÃO se tratam de estruturas de dados; NÃO armazenam dados;
+- Manipular estrutura de dados, coleções, arrays, fluxos E/S (I/O) por meio de um pipeline de uma maneira 
+mais simples e eficiente´;
+
+Pipeline: cadeia de operações que formam um fluxo de processamento. Fila lógica de processamento que podem ser executadas em paralelo
