@@ -1,0 +1,3 @@
+StringJoiner 
+
+- Classe pertencente ao pacote java.util, utilizada para compor sequências de caracteres separados por um delimitador.

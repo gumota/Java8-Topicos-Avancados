@@ -1,4 +1,8 @@
 Base64
 
 - Codificar e decodificar segundo esquema Base64;
-- 
+- Codificar dados binários em caracteres (RFC 4648 4 RFC 2045)
+	-Alfabeto(A-Za-z0-9+/)
+	-URL
+	-MIME (RFC 2045) - Mensagens de email  - RFC: coleção de dados 
+	
