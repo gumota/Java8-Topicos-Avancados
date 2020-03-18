@@ -1,5 +1,4 @@
 Optional 
 
 - Classe pertencente ao pacote java.util, utilizada como um container de objeto que pode ou não ter valor nulo;
-
 - Lidar com a exceção NullPointerException; 
