@@ -1,0 +1,8 @@
+Parallel Array Sorting
+
+Classe Arrays
+
+- Ordenar os elementos do array paralelamente;
+- Arrays parallelSort(); Passar array como parametro
+- Arrays.sort();
+

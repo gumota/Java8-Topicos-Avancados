@@ -1,0 +1,12 @@
+JavaScript Nashorn
+
+- Capacidade de rodar códigos Javascript nativamente na JVM;
+- Nashorn = Rhino (Mozilla);
+- Execução JavaScript:
+	- jjs (linha de comando)
+	- embarcar junto ao código java
+	
+Vantagens 
+ - Modificar parte da lógica sem recompilar
+ - Flexibilidade
+ - Interoperabilidade
