@@ -16,13 +16,13 @@ public class Exemplo02 {
 		lista.add(new Produto("Microondas", 550.00));
 		
 		// Lambda expression com argumento
-		lista.forEach((p) ->  System.out.println("Nome: " +  p.getNome() + " R$ " + p.getPreco()));
+		lista.forEach(p ->  System.out.println("Nome: " +  p.getNome() + " R$ " + p.getPreco()));
 		
 		// Ordenando a lista
 		lista.sort((p1, p2) -> p1.getPreco().compareTo(p2.getPreco()));
 		
 		//Blocos de ações dentro da expressão lambda
-		lista.forEach((p) ->  {
+		lista.forEach(p ->  {
 			System.out.println("Nome: " +  p.getNome());
 			System.out.println("R$ " + p.getPreco());
 			
