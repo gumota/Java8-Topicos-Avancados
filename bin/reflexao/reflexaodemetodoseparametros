@@ -1,0 +1,14 @@
+Reflexao de Metodos e Parametros
+
+- Reflexao: capacidade de um código inspecionar outro código (Debugadores)
+
+- java.lan.reflect.*;
+- Obter informações sobre métodos e parâmetros de uma classe ou de uma instância em tempo de execução
+
+Vantagens 
+
+- Facil manutençao do codigo, ganho de produtividade e extensibilidade
+
+Desvantagens
+
+- Segurança e performance

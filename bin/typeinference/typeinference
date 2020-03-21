@@ -1,0 +1,10 @@
+Inferencia de Tipos - Type Inference 
+
+- Capacidade do compilador em determinar o tipo do argumento, que não foi definido explicitamente, apenas 
+olhando para o método invocado e sua declaracao correspondente.
+
+- Conceito de Generics - JDK5 e o operador Diamond<> JDK7
+
+
+Isso tambem acontece no lamba expressions 
+
